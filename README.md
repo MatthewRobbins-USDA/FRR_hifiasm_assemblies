@@ -1,4 +1,4 @@
-# FRR_hfiasm_assemblies
+# FRR_hifiasm_assemblies
 Scripts and documentation to perform hifiasm assemblies on ARS HPCs
 
 # Running de novo genome assemblies using hifiasm
